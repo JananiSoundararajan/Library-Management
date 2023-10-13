@@ -32,6 +32,8 @@ Star UML
 ![Screenshot 2023-10-13 053259](https://github.com/JananiSoundararajan/Library-Management/assets/119477549/f83bea62-8887-447a-8069-9cb95e95155f)
 #### COMMUNICATION DIAGRAM:
 ![communication diagram](https://github.com/JananiSoundararajan/Library-Management/assets/119477549/2bcc64c4-4099-490a-b01e-948974d86387)
+#### PACKAGE DIAGRAM:
+![274499984-1a08aaf8-77a4-4601-8418-a5cd88936fed](https://github.com/JananiSoundararajan/Library-Management/assets/119477549/a3ac446a-9650-4589-bddf-6acbacd01cf2)
 
 
 
