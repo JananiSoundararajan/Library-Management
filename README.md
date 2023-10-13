@@ -28,6 +28,10 @@ Star UML
 ![Screenshot 2023-10-12 212818](https://github.com/JananiSoundararajan/Library-Management/assets/119477549/9661e8a0-71f1-4edd-9014-52d0bdc51f4e)
 #### ACTIVITY DIAGRAM:
 ![Screenshot 2023-10-12 213157](https://github.com/JananiSoundararajan/Library-Management/assets/119477549/a4c06019-2f4f-4e8c-a73d-338eb4b18a6c)
+#### CLASS DIAGRAM:
+![Screenshot 2023-10-13 053259](https://github.com/JananiSoundararajan/Library-Management/assets/119477549/f83bea62-8887-447a-8069-9cb95e95155f)
+
+
 
 
 ### RESULT:
